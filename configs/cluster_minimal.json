@@ -1,0 +1,26 @@
+{
+  "accelerator": {
+    "H100": {
+      "TFLOPS": 989.4,
+      "memory": 80000
+    }
+  },
+  "node": {
+    "localhost": {
+      "node_id": 0,
+      "acc_type": "H100",
+      "acc_num": 8
+    }
+  },
+  "network": {
+    "H100": [
+      300000,
+      2048
+    ],
+    "H100,H100": 50000
+  },
+  "policy": "fcfs",
+  "scheduler_addr": "localhost",
+  "job_port_begin": 20811,
+  "worker_port_begin": 12355
+}

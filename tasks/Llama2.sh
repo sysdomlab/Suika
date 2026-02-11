@@ -1,0 +1,1 @@
+bash task.sh $1 $2

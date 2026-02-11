@@ -1,0 +1,340 @@
+{
+  "accelerator": {
+    "H100": {
+      "TFLOPS": 989.4,
+      "memory": 81920
+    }
+  },
+  "node": {
+    "node0": {
+      "acc_type": "H100",
+      "node_id": 0,
+      "acc_num": 8
+    },
+    "node1": {
+      "acc_type": "H100",
+      "node_id": 1,
+      "acc_num": 8
+    },
+    "node2": {
+      "acc_type": "H100",
+      "node_id": 2,
+      "acc_num": 8
+    },
+    "node3": {
+      "acc_type": "H100",
+      "node_id": 3,
+      "acc_num": 8
+    },
+    "node4": {
+      "acc_type": "H100",
+      "node_id": 4,
+      "acc_num": 8
+    },
+    "node5": {
+      "acc_type": "H100",
+      "node_id": 5,
+      "acc_num": 8
+    },
+    "node6": {
+      "acc_type": "H100",
+      "node_id": 6,
+      "acc_num": 8
+    },
+    "node7": {
+      "acc_type": "H100",
+      "node_id": 7,
+      "acc_num": 8
+    },
+    "node8": {
+      "acc_type": "H100",
+      "node_id": 8,
+      "acc_num": 8
+    },
+    "node9": {
+      "acc_type": "H100",
+      "node_id": 9,
+      "acc_num": 8
+    },
+    "node10": {
+      "acc_type": "H100",
+      "node_id": 10,
+      "acc_num": 8
+    },
+    "node11": {
+      "acc_type": "H100",
+      "node_id": 11,
+      "acc_num": 8
+    },
+    "node12": {
+      "acc_type": "H100",
+      "node_id": 12,
+      "acc_num": 8
+    },
+    "node13": {
+      "acc_type": "H100",
+      "node_id": 13,
+      "acc_num": 8
+    },
+    "node14": {
+      "acc_type": "H100",
+      "node_id": 14,
+      "acc_num": 8
+    },
+    "node15": {
+      "acc_type": "H100",
+      "node_id": 15,
+      "acc_num": 8
+    },
+    "node16": {
+      "acc_type": "H100",
+      "node_id": 16,
+      "acc_num": 8
+    },
+    "node17": {
+      "acc_type": "H100",
+      "node_id": 17,
+      "acc_num": 8
+    },
+    "node18": {
+      "acc_type": "H100",
+      "node_id": 18,
+      "acc_num": 8
+    },
+    "node19": {
+      "acc_type": "H100",
+      "node_id": 19,
+      "acc_num": 8
+    },
+    "node20": {
+      "acc_type": "H100",
+      "node_id": 20,
+      "acc_num": 8
+    },
+    "node21": {
+      "acc_type": "H100",
+      "node_id": 21,
+      "acc_num": 8
+    },
+    "node22": {
+      "acc_type": "H100",
+      "node_id": 22,
+      "acc_num": 8
+    },
+    "node23": {
+      "acc_type": "H100",
+      "node_id": 23,
+      "acc_num": 8
+    },
+    "node24": {
+      "acc_type": "H100",
+      "node_id": 24,
+      "acc_num": 8
+    },
+    "node25": {
+      "acc_type": "H100",
+      "node_id": 25,
+      "acc_num": 8
+    },
+    "node26": {
+      "acc_type": "H100",
+      "node_id": 26,
+      "acc_num": 8
+    },
+    "node27": {
+      "acc_type": "H100",
+      "node_id": 27,
+      "acc_num": 8
+    },
+    "node28": {
+      "acc_type": "H100",
+      "node_id": 28,
+      "acc_num": 8
+    },
+    "node29": {
+      "acc_type": "H100",
+      "node_id": 29,
+      "acc_num": 8
+    },
+    "node30": {
+      "acc_type": "H100",
+      "node_id": 30,
+      "acc_num": 8
+    },
+    "node31": {
+      "acc_type": "H100",
+      "node_id": 31,
+      "acc_num": 8
+    },
+    "node32": {
+      "acc_type": "H100",
+      "node_id": 32,
+      "acc_num": 8
+    },
+    "node33": {
+      "acc_type": "H100",
+      "node_id": 33,
+      "acc_num": 8
+    },
+    "node34": {
+      "acc_type": "H100",
+      "node_id": 34,
+      "acc_num": 8
+    },
+    "node35": {
+      "acc_type": "H100",
+      "node_id": 35,
+      "acc_num": 8
+    },
+    "node36": {
+      "acc_type": "H100",
+      "node_id": 36,
+      "acc_num": 8
+    },
+    "node37": {
+      "acc_type": "H100",
+      "node_id": 37,
+      "acc_num": 8
+    },
+    "node38": {
+      "acc_type": "H100",
+      "node_id": 38,
+      "acc_num": 8
+    },
+    "node39": {
+      "acc_type": "H100",
+      "node_id": 39,
+      "acc_num": 8
+    },
+    "node40": {
+      "acc_type": "H100",
+      "node_id": 40,
+      "acc_num": 8
+    },
+    "node41": {
+      "acc_type": "H100",
+      "node_id": 41,
+      "acc_num": 8
+    },
+    "node42": {
+      "acc_type": "H100",
+      "node_id": 42,
+      "acc_num": 8
+    },
+    "node43": {
+      "acc_type": "H100",
+      "node_id": 43,
+      "acc_num": 8
+    },
+    "node44": {
+      "acc_type": "H100",
+      "node_id": 44,
+      "acc_num": 8
+    },
+    "node45": {
+      "acc_type": "H100",
+      "node_id": 45,
+      "acc_num": 8
+    },
+    "node46": {
+      "acc_type": "H100",
+      "node_id": 46,
+      "acc_num": 8
+    },
+    "node47": {
+      "acc_type": "H100",
+      "node_id": 47,
+      "acc_num": 8
+    },
+    "node48": {
+      "acc_type": "H100",
+      "node_id": 48,
+      "acc_num": 8
+    },
+    "node49": {
+      "acc_type": "H100",
+      "node_id": 49,
+      "acc_num": 8
+    },
+    "node50": {
+      "acc_type": "H100",
+      "node_id": 50,
+      "acc_num": 8
+    },
+    "node51": {
+      "acc_type": "H100",
+      "node_id": 51,
+      "acc_num": 8
+    },
+    "node52": {
+      "acc_type": "H100",
+      "node_id": 52,
+      "acc_num": 8
+    },
+    "node53": {
+      "acc_type": "H100",
+      "node_id": 53,
+      "acc_num": 8
+    },
+    "node54": {
+      "acc_type": "H100",
+      "node_id": 54,
+      "acc_num": 8
+    },
+    "node55": {
+      "acc_type": "H100",
+      "node_id": 55,
+      "acc_num": 8
+    },
+    "node56": {
+      "acc_type": "H100",
+      "node_id": 56,
+      "acc_num": 8
+    },
+    "node57": {
+      "acc_type": "H100",
+      "node_id": 57,
+      "acc_num": 8
+    },
+    "node58": {
+      "acc_type": "H100",
+      "node_id": 58,
+      "acc_num": 8
+    },
+    "node59": {
+      "acc_type": "H100",
+      "node_id": 59,
+      "acc_num": 8
+    },
+    "node60": {
+      "acc_type": "H100",
+      "node_id": 60,
+      "acc_num": 8
+    },
+    "node61": {
+      "acc_type": "H100",
+      "node_id": 61,
+      "acc_num": 8
+    },
+    "node62": {
+      "acc_type": "H100",
+      "node_id": 62,
+      "acc_num": 8
+    },
+    "node63": {
+      "acc_type": "H100",
+      "node_id": 63,
+      "acc_num": 8
+    }
+  },
+  "network": {
+    "H100": [
+      300000,
+      2048
+    ],
+    "H100,H100": 50000
+  },
+  "policy": "fcfs",
+  "scheduler_addr": "localhost",
+  "job_port_begin": 40402
+}

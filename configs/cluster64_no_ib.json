@@ -1,0 +1,61 @@
+{
+  "accelerator": {
+    "H100": {
+      "TFLOPS": 989.4,
+      "memory": 80000
+    }
+  },
+  "node": {
+    "10.244.0.97": {
+      "node_id": 0,
+      "acc_type": "H100",
+      "acc_num": 8
+    },
+    "10.244.4.33": {
+      "node_id": 1,
+      "acc_type": "H100",
+      "acc_num": 8
+    },
+    "10.244.6.89": {
+      "node_id": 2,
+      "acc_type": "H100",
+      "acc_num": 8
+    },
+    "10.244.29.55": {
+      "node_id": 3,
+      "acc_type": "H100",
+      "acc_num": 8
+    },
+    "10.244.9.60": {
+      "node_id": 4,
+      "acc_type": "H100",
+      "acc_num": 8
+    },
+    "10.244.2.132": {
+      "node_id": 5,
+      "acc_type": "H100",
+      "acc_num": 8
+    },
+    "10.244.17.31": {
+      "node_id": 6,
+      "acc_type": "H100",
+      "acc_num": 8
+    },
+    "10.244.7.89": {
+      "node_id": 7,
+      "acc_type": "H100",
+      "acc_num": 8
+    }
+  },
+  "network": {
+    "H100": [
+      300000,
+      2048
+    ],
+    "H100,H100": 1250
+  },
+  "policy": "fcfs",
+  "scheduler_addr": "10.244.4.33",
+  "job_port_begin": 20811,
+  "worker_port_begin": 12355
+}

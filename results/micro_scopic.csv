@@ -1,0 +1,17 @@
+suika, 16, 1.75
+metis, 16, 1.75
+dp, 16, 1.75
+rubick, 16, 1.75
+suika, 24, 1.25
+metis, 24, 1.30
+suika, 32, 1.00
+metis, 32, 1.00
+metis, 40, 0.83
+suika, 40, 0.87
+suika, 40, 0.88
+suika, 48, 0.76
+suika, 56, 0.70
+suika, 64, 0.67
+rubick, 32, 1.34
+rubick, 64, 1.04
+dp, 32, 1.15
